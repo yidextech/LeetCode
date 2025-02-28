@@ -5,7 +5,6 @@ class Solution:
         curSum = 0
 
         for n in nums:
-            curSum = max(curSum, 0)
-            curSum += n
+            curSum = max(curSum, 0) + n
             maxSum = max(maxSum, curSum)
         return maxSum
