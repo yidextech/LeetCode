@@ -13,6 +13,4 @@ class Solution:
                 isPivot.append(i)
         lstack.extend(isPivot)
         lstack.extend(rstack)
-        del rstack
-        del isPivot
         return lstack
