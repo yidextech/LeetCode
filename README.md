@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/yidextech/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/yidextech/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yidextech/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yidextech/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yidextech/LeetCode/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/yidextech/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
 | ------- |
