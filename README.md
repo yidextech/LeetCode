@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yidextech/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yidextech/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yidextech/LeetCode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/yidextech/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/yidextech/LeetCode/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/yidextech/LeetCode/tree/master/0682-baseball-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yidextech/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yidextech/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/yidextech/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/yidextech/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/yidextech/LeetCode/tree/master/0500-keyboard-row) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/yidextech/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/yidextech/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
