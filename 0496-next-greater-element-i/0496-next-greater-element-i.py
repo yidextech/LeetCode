@@ -4,10 +4,15 @@ class Solution:
         
 
         for num1 in nums1:
-            x = nums2.index(num1)
-            y = [a for a in nums2[x:] if a>num1]
-            if y:
-                output.append(y[0])
+
+            for num2 in nums2[nums2.index(num1):]:
+                x = None
+                if num2 > num1:
+                    x = num2
+                    break
+            if x:
+                output.append(x)
             else:
                 output.append(-1)
+
         return output
