@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yidextech/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/yidextech/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/yidextech/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/yidextech/LeetCode/tree/master/0682-baseball-game) |
 | [0919-projection-area-of-3d-shapes](https://github.com/yidextech/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yidextech/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/yidextech/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2892-check-if-array-is-good](https://github.com/yidextech/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/yidextech/LeetCode/tree/master/0506-relative-ranks) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
