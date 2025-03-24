@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/yidextech/LeetCode/tree/master/0682-baseball-game) |
+| [0777-toeplitz-matrix](https://github.com/yidextech/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/yidextech/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/yidextech/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yidextech/LeetCode/tree/master/0817-design-hashmap) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/yidextech/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/yidextech/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 ## Sliding Window
 |  |
