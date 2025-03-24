@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yidextech/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yidextech/LeetCode/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/yidextech/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/yidextech/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/yidextech/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yidextech/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
