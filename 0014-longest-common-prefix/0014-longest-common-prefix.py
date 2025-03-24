@@ -1,8 +1,6 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
 
-        strs.sort()
-        
         check  = strs[0]
         
 
