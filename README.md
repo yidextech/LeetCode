@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/yidextech/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/yidextech/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/yidextech/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/yidextech/LeetCode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/yidextech/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yidextech/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/yidextech/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
