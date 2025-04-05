@@ -3,8 +3,8 @@ class Solution:
 
         
         
-        greater =  999999
-        smaller = -999999
+        greater =  float("inf")
+        smaller = float("-inf")
 
 
         nums.sort()
