@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/yidextech/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/yidextech/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/yidextech/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/yidextech/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/yidextech/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/yidextech/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Geometry
 |  |
 | ------- |
