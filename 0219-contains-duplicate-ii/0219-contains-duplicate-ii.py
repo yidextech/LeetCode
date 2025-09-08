@@ -1,13 +1,13 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        dupHash ={}
+
+        check = {}
 
         for i in range(len(nums)):
-            if nums[i] in dupHash:
-                if abs(dupHash[nums[i]] - i) <= k:
+            if nums[i] in check:
+                j = check[nums[i]]
+                if abs(i-j) <=k:
                     return True
-                else:
-                    dupHash[nums[i]] = i
-            else:
-                dupHash[nums[i]] = i
+            check[nums[i]] = i
         return False
+        
