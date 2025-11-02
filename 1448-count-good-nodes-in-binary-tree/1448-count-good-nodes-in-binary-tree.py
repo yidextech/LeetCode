@@ -7,19 +7,14 @@
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         
-        dq = deque()
-        low = float('-inf')
-        dq.append( (root, low) )
-        count = 0
-        while dq:
-            for i in range(len(dq)):
-                cur = dq.pop()
-                #check and append the children
-                #cur[0] --> child and cur[1] --> parent 
-                if cur[1]==low or cur[0].val >= cur[1].val:
-                    count += 1
-                if cur[0].left:
-                    dq.append( (cur[0].left, cur[0]) )
-                if cur[0].right:
-                    dq.append( (cur[0].right, cur[0]) )
-        return count
+        def dfs(node, max_so_far):
+            if not node:
+                return 0
+            count = 1 if node.val >= max_so_far else 0
+            new_max = max(max_so_far, node.val)
+
+            count += dfs(node.left, new_max)
+            count += dfs(node.right, new_max)
+
+            return count
+        return dfs(root, root.val)
