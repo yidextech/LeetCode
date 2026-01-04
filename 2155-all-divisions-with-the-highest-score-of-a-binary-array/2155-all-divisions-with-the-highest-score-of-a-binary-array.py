@@ -5,16 +5,21 @@ class Solution:
         max_score = float('-inf')
 
         n = len(nums)
+
+        count0 = nums.count(0)
+        count1 = n - count0
         for i in range(n+1):
             if i == 0:
                 nums_left = 0
-                nums_right = nums.count(1)
+                nums_right = count1
             elif i == n:
-                nums_left = nums.count(0)
+                nums_left = count0
                 nums_right = 0
             else:
-                nums_left = nums[:i].count(0)
-                nums_right = nums[i:].count(1)
+                if  nums[i-1] == 0:
+                    nums_left += 1
+                else:
+                    nums_right -= 1
             
             score = nums_left + nums_right
             if score > max_score:
