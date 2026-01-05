@@ -9,12 +9,12 @@ class Solution:
         if not root:
             return 0
 
-        dq = dequqe()
+        dq = deque()
         dq.append(root)
-        h = 0
+        h = 1
         min_h = float("inf")
         while dq:
-            for node in dq:
+            for i in range(len(dq)):
                 cur = dq.popleft()
                 if not(cur.left or cur.right):
                     min_h = min(min_h, h)
