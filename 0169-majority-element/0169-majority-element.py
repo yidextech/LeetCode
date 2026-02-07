@@ -1,7 +1,7 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        nums_dict= Counter(nums)
-
-        for num, c in nums_dict.items():
-            if c > (len(nums)//2):
-                return num
+        from collections import Counter
+        c = len(nums)//2
+        for item,i in Counter(nums).items():
+            if i > c:
+                return item
