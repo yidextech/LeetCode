@@ -14,6 +14,7 @@ class Solution:
                 winners.discard(player[1])
         print(winners)
         winners = list(winners)
+        winners.sort()
         loser_list = []
         for loser, i in losers.items():
             if i == 1:
