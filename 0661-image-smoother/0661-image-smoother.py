@@ -1,38 +1,21 @@
 class Solution:
     def imageSmoother(self, img: List[List[int]]) -> List[List[int]]:
+        
+        new_img = [[0 for col in range(len(img[0]))] for row in range(len(img))]
+        
+        for rows in range(len(img)):
+            for cols in range(len(img[0])):
+                total = 0
+                num = 0
+                for i in range(rows-1, rows+2):
+                    if i < 0 or i >= len(img):
+                        continue
+                    for j in range(cols-1, cols+2):
+                        if j < 0 or j >= len(img[0]):
+                            continue 
+                        num += 1
+                        total += img[i][j]
 
-        rows = len(img)
-        cols = len(img[0])
-
-        new_img = [[0]*cols for _rows in img]
-        for i in range(rows):
-            for j in range(cols):
-                cell_total = img[i][j]
-                count = 1
-                if i > 0:
-                    cell_total += img[i-1][j]
-                    count += 1
-                    if j > 0:
-                        cell_total += img[i-1][j-1]
-                        count += 1
-                    if j < cols-1:
-                        cell_total += img[i-1][j+1]
-                        count += 1
-                if i < rows-1:
-                    cell_total += img[i+1][j]
-                    count += 1
-                    if j > 0:
-                        cell_total += img[i+1][j-1]
-                        count += 1
-                    if j < cols-1:
-                        cell_total += img[i+1][j+1]
-                        count += 1
-                if j > 0:
-                        cell_total += img[i][j-1]
-                        count += 1
-                if j < cols-1:
-                        cell_total += img[i][j+1]
-                        count += 1
-                new_img[i][j] = (cell_total//count)
-
+                new_img[rows][cols] = total//num
+                
         return new_img
