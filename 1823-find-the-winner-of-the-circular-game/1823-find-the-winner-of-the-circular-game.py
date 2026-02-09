@@ -1,12 +1,16 @@
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
-        friends = list(range(1, n+1))
-        def winner(arr,idx):
-            nonlocal k
-            if len(arr) == 1:
-                return arr[0]
-            rmf = (idx+k-1)%len(arr)
-            arr.pop(rmf)
-            return winner(arr, rmf)
         
-        return winner(friends,idx=0)
+        count = 0
+        i= 0
+        players = list(range(1, n+1))
+        while len(players) > 1:
+            count += 1
+            if count == k:
+                count =0 
+                del players[i]
+            else:
+                i += 1
+                i %= len(players)
+
+        return players[0]
