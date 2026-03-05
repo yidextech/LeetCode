@@ -12,7 +12,7 @@ class Solution:
             losers[player[1]] += 1
             if player[1] in winners:
                 winners.discard(player[1])
-        print(winners)
+  
         winners = list(winners)
         winners.sort()
         loser_list = []
@@ -25,4 +25,3 @@ class Solution:
         
 
         
-
