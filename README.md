@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/yidextech/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2058-concatenation-of-array](https://github.com/yidextech/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2892-check-if-array-is-good](https://github.com/yidextech/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yidextech/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2892-check-if-array-is-good](https://github.com/yidextech/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/yidextech/LeetCode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/yidextech/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2892-check-if-array-is-good](https://github.com/yidextech/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yidextech/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yidextech/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/yidextech/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
