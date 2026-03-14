@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yidextech/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/yidextech/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0763-partition-labels](https://github.com/yidextech/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yidextech/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/yidextech/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yidextech/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/yidextech/LeetCode/tree/main/0763-partition-labels/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yidextech/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/yidextech/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/yidextech/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0816-design-hashset](https://github.com/yidextech/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yidextech/LeetCode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yidextech/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
+| [0763-partition-labels](https://github.com/yidextech/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
