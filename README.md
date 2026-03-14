@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/yidextech/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/yidextech/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yidextech/LeetCode/tree/master/0817-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0919-projection-area-of-3d-shapes](https://github.com/yidextech/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/yidextech/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yidextech/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yidextech/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yidextech/LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/yidextech/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yidextech/LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yidextech/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/yidextech/LeetCode/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
