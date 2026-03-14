@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yidextech/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yidextech/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/yidextech/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/yidextech/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/yidextech/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/yidextech/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yidextech/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yidextech/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/yidextech/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yidextech/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yidextech/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/yidextech/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0792-binary-search](https://github.com/yidextech/LeetCode/tree/master/0792-binary-search) |
 ## String
 | Problem Name | Difficulty |
