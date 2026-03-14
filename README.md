@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/yidextech/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/yidextech/LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2892-check-if-array-is-good](https://github.com/yidextech/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yidextech/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/yidextech/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/yidextech/LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yidextech/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/yidextech/LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2892-check-if-array-is-good](https://github.com/yidextech/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/yidextech/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yidextech/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/yidextech/LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2892-check-if-array-is-good](https://github.com/yidextech/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yidextech/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
