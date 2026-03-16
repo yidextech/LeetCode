@@ -3,13 +3,11 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
-        def solution(k, arr):
-            if k == 0:
-                return 
-            k -= 1
-            front = arr.pop()
-            arr.insert(0, front)
-            solution(k, arr)
-        
-        solution(k, nums)
+        n = len(nums)
+        i = n - (k%n)
+
+        new_nums = nums[i:]
+        del nums[i:]
+
+        for k in range(len(new_nums)-1, -1, -1):
+            nums.insert(0, new_nums[k])
