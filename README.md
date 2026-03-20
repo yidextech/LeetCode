@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/yidextech/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/yidextech/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/yidextech/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/yidextech/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yidextech/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yidextech/LeetCode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Sorting
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/yidextech/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yidextech/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/yidextech/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/yidextech/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
