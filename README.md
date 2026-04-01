@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/yidextech/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/yidextech/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1635-number-of-good-pairs](https://github.com/yidextech/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/yidextech/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2491-smallest-even-multiple](https://github.com/yidextech/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yidextech/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/yidextech/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2491-smallest-even-multiple](https://github.com/yidextech/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Trie
 | Problem Name | Difficulty |
