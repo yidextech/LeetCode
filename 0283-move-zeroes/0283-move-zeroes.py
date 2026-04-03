@@ -3,13 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        opns = 0
-
         i = 0
-        while opns <= len(nums) and i < len(nums):
-            opns += 1
-            if nums[i] == 0:
-                nums.pop(i)
-                nums.append(0)
+        j = 1
+
+        while j < len(nums):
+            if nums[i] == 0 and nums[j] != 0:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 1
+                j += 1
+            elif nums[i] == nums[j] == 0:
+                j +=1
             else:
                 i += 1
+                j += 1
+        
