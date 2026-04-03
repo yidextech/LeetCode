@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yidextech/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yidextech/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/yidextech/LeetCode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/yidextech/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yidextech/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yidextech/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yidextech/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yidextech/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yidextech/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yidextech/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/yidextech/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/yidextech/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/yidextech/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yidextech/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/yidextech/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yidextech/LeetCode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/yidextech/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/yidextech/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yidextech/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yidextech/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
